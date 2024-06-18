@@ -1,0 +1,3 @@
+map.sunX+=1
+light sun direction $map.sunX $map.sunY $map.sunZ
+map quickreturn

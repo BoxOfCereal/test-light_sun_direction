@@ -1,0 +1,11 @@
+tile ColumnBig
+circle 0 0 0 64 32 12
+tile ColumnSmall
+circle 0 0 0 64 16 12
+tile Terminal_plus
+polygon 0 0 0 24 -9 -4 9 -4 9 4 -9 4
+polygon 0 32 0 8 -2 -2 2 -2 2 2 -2 2
+polygon 0 34 0 4 -4 -4 4 -4 4 4 -4 4
+tile Terminal_minus
+polygon 0 34 0 4 -4 -4 4 -4 4 4 -4 4
+polygon 0 0 0 24 -9 -4 9 -4 9 4 -9 4
